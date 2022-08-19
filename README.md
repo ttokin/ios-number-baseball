@@ -125,4 +125,3 @@
 - [Swift API Design Guideline](https://www.swift.org/documentation/api-design-guidelines/)
 - [Swift Language Guide - Optional, nil, Optional Binding](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html)
 - [Swift Language Guide - Collection Types](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
-
